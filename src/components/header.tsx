@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import mqsLogo from "../assets/maisquesites-logo.png";
+import mqsLogo from "../assets/maisquesites.png";
 import { routes } from "../routes";
 
 export default function Header() {
